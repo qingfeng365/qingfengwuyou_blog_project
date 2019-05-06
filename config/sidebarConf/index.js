@@ -1,5 +1,9 @@
 const css = require('./css/index.js');
 const javascript = require('./javascript/index.js');
+const database = require('./database/index.js');
+const lib = require('./lib/index.js');
+const backEnd = require('./back-end/index.js');
+const resource = require('./resource/index.js');
 
 /**
  * 侧边栏的配置
@@ -12,6 +16,11 @@ module.exports = {
   // 商城帮助文档
   '/css/': css,
   '/javascript/': javascript,
+  '/database/': database,
+  '/lib/': lib,
+  '/back-end/': backEnd,
+  '/resource/': resource,
+
 
   // 根目录下的 sidebar, 对于所有未匹配到的都会应用该 sidebar
   // '/': ['']

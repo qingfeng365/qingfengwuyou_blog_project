@@ -33,6 +33,10 @@ module.exports = [
     ]
   },
   {
+    text: '库与框架',
+    link: '/lib/'
+  },
+  {
     text: '数据库',
     link: '/database/'
   },
