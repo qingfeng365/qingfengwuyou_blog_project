@@ -2,7 +2,9 @@ module.exports = [{
   title: '基础',
   path: '/css/basic/',
   collapsable: false,
-  children: []
+  children: [
+    '/css/basic/css-cookbook/media-objects'
+  ]
 }, {
   title: '技巧',
   path: '/css/skill/',
@@ -12,5 +14,7 @@ module.exports = [{
   title: '参考',
   path: '/css/ref/',
   collapsable: false,
-  children: []
+  children: [
+    '/css/ref/layout-learning-guide'
+  ]
 }];
