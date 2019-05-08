@@ -4,6 +4,7 @@ module.exports = [{
   collapsable: false,
   children: [
     '/css/basic/2019-05-08-box-model.md',
+    '/css/basic/2019-05-08-width.md',
   ]
 }, {
   title: '技巧',
