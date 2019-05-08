@@ -12,6 +12,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.0.0"
+    "vuepress": "^1.0.0-alpha.44"
   }
 }
