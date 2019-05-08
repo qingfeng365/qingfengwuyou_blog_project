@@ -5,7 +5,7 @@ script:
   - npm run docs:build
 deploy:
   provider: pages
-  repo: qingfengwuyou.github.io
+  repo: qingfengwuyou/qingfengwuyou.github.io
   target_branch: master
   skip-cleanup: true
   local_dir: docs/.vuepress/dist
