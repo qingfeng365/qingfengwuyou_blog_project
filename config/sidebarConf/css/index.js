@@ -18,6 +18,7 @@ module.exports = [{
   path: '/css/ref/',
   collapsable: false,
   children: [
-    '/css/ref/layout-learning-guide'
+    '/css/ref/layout-learning-guide',
+    '/css/ref/2019-05-09-css3-new-features.md'
   ]
 }];
