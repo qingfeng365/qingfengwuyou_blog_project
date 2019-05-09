@@ -1,4 +1,4 @@
-# Travis CI 部署博客到 guthub page
+# Travis CI 部署博客到 github page
 
 ## 说明
 
@@ -8,23 +8,23 @@
 
 ## 特殊要求
 
-与一般的 guthub page 博客不同, 本博客的源码和静态页面是分别存放在不同的仓库,而网上的教程一般都是在同一仓库
+与一般的 github page 博客不同, 本博客的源码和静态页面是分别存放在不同的仓库,而网上的教程一般都是在同一仓库
 
 ## 踩过的坑
 
-### 登录 Travis CI 的 guthub 帐号
+### 登录 Travis CI 的 github 帐号
 
 由于本博客的源码和静态页面不但存放在不同的仓库,且仓库的帐号也是不同的.
 
-因此在登录 Travis CI , 应使用源码项目的 guthub 帐号
+因此在登录 Travis CI , 应使用源码项目的 github 帐号
 
 ### Travis CI 如何访问(推送静态页面至)静态页面仓库(博客站点)
 
-由于静态页面仓库也在 guthub, 还是比较方便, 分两步处理即可
+由于静态页面仓库也在 github, 还是比较方便, 分两步处理即可
 
 `获取 token`
 
-- 先登录 guthub , 用 静态页面仓库 帐号
+- 先登录 github , 用 静态页面仓库 帐号
 - 在帐号头像, 找到 `Settings-Developer settings`
 - 找到 `Personal access tokens` 生成 `token` , (选项 将 `repo` 勾上)
 - 复制 `token` 备用
