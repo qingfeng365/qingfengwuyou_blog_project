@@ -4,6 +4,7 @@ const database = require('./database/index.js');
 const lib = require('./lib/index.js');
 const backEnd = require('./back-end/index.js');
 const resource = require('./resource/index.js');
+const others = require('./others/index.js');
 
 /**
  * 侧边栏的配置
@@ -20,7 +21,7 @@ module.exports = {
   '/lib/': lib,
   '/back-end/': backEnd,
   '/resource/': resource,
-
+  '/others/': others,
 
   // 根目录下的 sidebar, 对于所有未匹配到的都会应用该 sidebar
   // '/': ['']

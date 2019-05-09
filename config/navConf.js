@@ -45,6 +45,10 @@ module.exports = [
     link: '/back-end/'
   },
   {
+    text: '杂项',
+    link: '/others/'
+  },
+  {
     text: '资源',
     link: '/resource/'
   },
