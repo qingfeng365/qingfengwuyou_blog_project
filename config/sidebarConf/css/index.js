@@ -5,6 +5,10 @@ module.exports = [{
   children: [
     '/css/basic/2019-05-08-box-model.md',
     '/css/basic/2019-05-08-width.md',
+    '/css/basic/2019-05-10-height.md',
+    '/css/basic/2019-05-14-max-min-height-width.md',
+    '/css/basic/2019-05-14-inline.md'
+
   ]
 }, {
   title: '技巧',
