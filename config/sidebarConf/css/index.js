@@ -7,7 +7,8 @@ module.exports = [{
     '/css/basic/2019-05-08-width.md',
     '/css/basic/2019-05-10-height.md',
     '/css/basic/2019-05-14-max-min-height-width.md',
-    '/css/basic/2019-05-14-inline.md'
+    '/css/basic/2019-05-14-inline.md',
+    '/css/basic/2019-05-15-padding.md'
 
   ]
 }, {
