@@ -1,4 +1,4 @@
-# min/max-width 和 min/max-height
+# min/max-width/height
 
 ## 说明
 
