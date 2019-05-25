@@ -52,4 +52,8 @@ module.exports = [
     text: '资源',
     link: '/resource/'
   },
+  {
+    text: '哲学',
+    link: '/philosophy/'
+  },
 ];

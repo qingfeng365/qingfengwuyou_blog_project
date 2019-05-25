@@ -13,3 +13,5 @@
 ## [后端](/back-end/)
 
 ## [资源](/resource/)
+
+## [哲学](/philosophy/)
