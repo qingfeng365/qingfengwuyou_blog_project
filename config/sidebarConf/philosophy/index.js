@@ -3,6 +3,6 @@ module.exports = [{
   path: '/philosophy/the-phenomenology-of-spirit/',
   collapsable: false,
   children: [
-    '/philosophy/the-phenomenology-of-spirit/10-chapter-one-perceptual-certainty.md',
+    '/philosophy/the-phenomenology-of-spirit/10-chapter-one-perceptual-certainty',
   ]
 }];
