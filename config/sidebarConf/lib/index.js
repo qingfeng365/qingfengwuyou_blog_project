@@ -4,6 +4,10 @@ module.exports = [{
   sidebarDepth: 3,
   children: [
     'front-end-libs',
+    'data-resource',
+    'design',
+    'ui',
+    'mini'
   ],
 
 }];
