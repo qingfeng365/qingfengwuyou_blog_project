@@ -4,7 +4,7 @@ module.exports = [{
   sidebarDepth: 1,
   children: [
     '/others/2019-05-09-Travis-CI-github-page',
-    'docs/others/2019-07-15-test-md-style'
+    '/others/2019-07-15-test-md-style'
   ],
 
 }];
