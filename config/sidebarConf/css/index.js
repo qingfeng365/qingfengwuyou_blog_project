@@ -16,7 +16,8 @@ module.exports = [{
   path: '/css/skill/',
   collapsable: false,
   children: [
-    '/css/basic/css-cookbook/media-objects'
+    '/css/basic/css-cookbook/media-objects',
+    '/css/skill/2021-05-23-glass-morphism.md',
   ]
 }, {
   title: '参考',
