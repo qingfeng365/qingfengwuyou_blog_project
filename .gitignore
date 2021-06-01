@@ -65,3 +65,5 @@ typings/
 secretKeyConf.js
 docs/.vuepress/dist
 docs/.vuepress/dist/
+
+yarn.lock
