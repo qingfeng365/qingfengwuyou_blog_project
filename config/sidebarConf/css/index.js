@@ -18,6 +18,7 @@ module.exports = [{
   children: [
     '/css/basic/css-cookbook/media-objects',
     '/css/skill/2021-05-23-glass-morphism.md',
+    '/css/skill/2021-06-08-css-animation-basic-01.md',
   ]
 }, {
   title: '参考',

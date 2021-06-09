@@ -24,9 +24,12 @@ qingfengwuyou blog project
 
 先登录 github , 用 静态页面仓库 帐号 (qingfengwuyou)
 
-生成 token：
+生成 token：(要全部打勾)
 
-token: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
+
+
+token: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
+
 
 再次登录 github , 用源码仓库 帐号（qingfeng365）
 
@@ -39,3 +42,8 @@ https://www.travis-ci.com/signin
 `Travis CI 部署博客到 github page`
 
 同步很慢，要耐心等
+
+
+### 资源站点
+
+- https://www.w3cplus.com/blogs-lists
