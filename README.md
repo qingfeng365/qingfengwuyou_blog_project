@@ -27,10 +27,6 @@ qingfengwuyou blog project
 生成 token：(要全部打勾)
 
 
-
-token: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
-
-
 再次登录 github , 用源码仓库 帐号（qingfeng365）
 
 然后登录 travis-ci
