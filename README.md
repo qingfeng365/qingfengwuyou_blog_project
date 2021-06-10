@@ -26,6 +26,7 @@ qingfengwuyou blog project
 
 生成 token：(要全部打勾)
 
+`token 千万不要复制到 github 仓库中，因为 github 有安全性检查， 认为 token 有可能被泄露`
 
 再次登录 github , 用源码仓库 帐号（qingfeng365）
 
